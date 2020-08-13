@@ -1,5 +1,6 @@
 function Cal(){}
 Cal.prototype={
+    constructor:Cal,
     //version
     version:1.0,
     //Positive integer addition
