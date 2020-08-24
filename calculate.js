@@ -208,3 +208,4 @@ Cal.prototype={
         }
     }
 }
+module.exports=Cal;
